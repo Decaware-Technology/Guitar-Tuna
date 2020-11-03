@@ -1,2 +1,2 @@
-# Guitar-Tuner
-Tune strings of your guitar with this app
+# Mr. Pokebot
+Learn about Pokemons with him
