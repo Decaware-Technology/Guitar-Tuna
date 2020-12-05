@@ -1,0 +1,45 @@
+{
+  "id": "9b40ab81-ef77-4e24-a744-644b442da4b5",
+  "name": "forms: greninja",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://vignette.wikia.nocookie.net/pig-boy/images/9/90/Greninja.png/revision/latest?cb\u003d20191101015427",
+          "subtitle": "Greninja has 1 other form  -  Ash Greninja",
+          "title": "Greninja forms",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Greninja has 1 other form  -  Ash\u0027s Greninja"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

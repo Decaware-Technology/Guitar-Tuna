@@ -1,0 +1,45 @@
+{
+  "id": "c7dbc5ba-b128-44d7-a9b4-a8c618e7bbf2",
+  "name": "forms: blastoise",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://photo-collage.net/global/collages/photo-collage.net/thumbnails/80599f7ab30c8356d34c2b39f6a56911_collage_450.jpg",
+          "subtitle": "Blastoise has 3 other forms  -  Mega, Shiny \u0026 Gigantamax",
+          "title": "Blastoise forms",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Blastoise has 3 other forms  -  Mega, Shiny \u0026 Gigantamax"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

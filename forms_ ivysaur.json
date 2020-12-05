@@ -1,0 +1,45 @@
+{
+  "id": "ef99c7b4-30cc-4e8e-a790-98a23467efe9",
+  "name": "forms: ivysaur",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://lh3.googleusercontent.com/proxy/o-pM0J-okN_WO5NmUXeoc29B6MMhGKgL5zhMoxfhJ1L-KSKe17eK8dNvLcYi2Nwa2q_YSueOlOcxUQfLpIWVQZeXIn4nj1Y1_4ejOlNbFsmjRKUJ9fq5jXJn4x5aczc6lwsSD-ZWoiM8OnQ",
+          "subtitle": "Ivysaur has 1 other form   -  Shiny",
+          "title": "Ivysaur forms",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Ivysaur has 1 other form   -  Shiny"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
