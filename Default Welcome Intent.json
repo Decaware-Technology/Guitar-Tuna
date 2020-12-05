@@ -1,0 +1,43 @@
+{
+  "id": "5f2b02a9-1d32-4fee-b815-aad99e562776",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Hi! How are you doing? To Start with type /help",
+            "Hello! How can I help you? To Start with type /help",
+            "Good day! What can I do for you today? To Start with type /help",
+            "Greetings! How can I assist? To Start with type /help",
+            "I can tell you about Pokemons. Tell me what are you looking for? To Start with type /help"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
