@@ -1,0 +1,75 @@
+{
+  "id": "64069473-92f3-478a-932b-0f9598991045",
+  "name": "evolution: alomomola",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Alomomola does not evolve"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://img.pokemondb.net/artwork/alomomola.jpg",
+          "subtitle": "Alomomola does not evolve",
+          "title": "Alomomola evolution",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "title": "",
+          "textToSpeech": "",
+          "items": [
+            {
+              "description": "",
+              "textToSpeech": "Alomomola does not evolve",
+              "displayText": "",
+              "footer": "",
+              "ssml": ""
+            }
+          ],
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "subtitle": "Alomomola does not evolve",
+          "title": "Alomomola",
+          "textToSpeech": "",
+          "image": {
+            "url": "https://img.pokemondb.net/artwork/alomomola.jpg",
+            "accessibilityText": "Alomomola"
+          },
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

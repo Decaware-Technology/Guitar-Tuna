@@ -1,0 +1,75 @@
+{
+  "id": "8be69889-d5f3-4917-bad6-91b6c0249be5",
+  "name": "evolution: abra",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://i.ytimg.com/vi/cHcbTjwqoS4/maxresdefault.jpg",
+          "subtitle": "Abra evolves to Kadabara at Level 16 \u0026 Kadabara evolves to Alakazam by trading it",
+          "title": "Abra\u0027s evolution",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "title": "",
+          "textToSpeech": "",
+          "items": [
+            {
+              "description": "",
+              "textToSpeech": "Abra evolves to Kadabara at Level 16 \u0026 Kadabara evolves to Alakazam by trading it",
+              "displayText": "",
+              "footer": "",
+              "ssml": ""
+            }
+          ],
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "subtitle": "Abra evolves to Kadabara at Level 16 \u0026 Kadabara evolves to Alakazam by trading it",
+          "title": "Abra",
+          "textToSpeech": "",
+          "image": {
+            "url": "https://img.pokemondb.net/artwork/abra.jpg",
+            "accessibilityText": "Abra"
+          },
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Abra evolves to Kadabara at Level 16 \u0026 Kadabara evolves to Alakazam by trading it"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

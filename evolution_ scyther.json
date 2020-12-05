@@ -1,0 +1,75 @@
+{
+  "id": "dee5b1a6-9cec-4579-b1ac-dc7143fce5c2",
+  "name": "evolution: scyther",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://i.ibb.co/sCDtGzy/image-2020-11-26-183128.png",
+          "subtitle": "Scyther evolves to Scizor when traded while holding Metal Coat",
+          "title": "Scyther evolution",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "title": "",
+          "textToSpeech": "",
+          "items": [
+            {
+              "description": "",
+              "textToSpeech": "Scyther evolves to Scizor when traded while holding Metal Coat",
+              "displayText": "",
+              "footer": "",
+              "ssml": ""
+            }
+          ],
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "subtitle": "Scyther evolves to Scizor when traded while holding Metal Coat",
+          "title": "Scyther",
+          "textToSpeech": "",
+          "image": {
+            "url": "https://img.pokemondb.net/artwork/scyther.jpg",
+            "accessibilityText": "Scyther"
+          },
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Scyther evolves to Scizor when traded while holding Metal Coat"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

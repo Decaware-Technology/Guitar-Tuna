@@ -1,0 +1,75 @@
+{
+  "id": "925b90e2-f3d0-4a7a-ba70-ab1ed4174277",
+  "name": "evolution: palkia",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://static.wikia.nocookie.net/pokemongo/images/4/4f/Palkia.png/revision/latest?cb\u003d20191212022757",
+          "subtitle": "Palkia does not evolve.",
+          "title": "Palkia evolution",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "title": "",
+          "textToSpeech": "",
+          "items": [
+            {
+              "description": "",
+              "textToSpeech": "Palkia does not evolve.",
+              "displayText": "",
+              "footer": "",
+              "ssml": ""
+            }
+          ],
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "subtitle": "Palkia does not evolve.",
+          "title": "Palkia",
+          "textToSpeech": "",
+          "image": {
+            "url": "https://img.pokemondb.net/artwork/palkia.jpg",
+            "accessibilityText": "Palkia"
+          },
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Palkia does not evolve."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

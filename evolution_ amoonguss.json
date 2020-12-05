@@ -1,0 +1,75 @@
+{
+  "id": "ce892e44-b704-4ac7-a3ea-7a2652e8ab7f",
+  "name": "evolution: amoonguss",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://i.ibb.co/pWNh1gx/image-2020-11-25-154433.png",
+          "subtitle": "Amoonguss evolves from Foongus at Level 39",
+          "title": "Amoonguss evolution",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "title": "",
+          "textToSpeech": "",
+          "items": [
+            {
+              "description": "",
+              "textToSpeech": "Amoonguss evolves from Foongus at Level 39",
+              "displayText": "",
+              "footer": "",
+              "ssml": ""
+            }
+          ],
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "subtitle": "Amoonguss evolves from Foongus at Level 39",
+          "title": "Amoonguss",
+          "textToSpeech": "",
+          "image": {
+            "url": "https://img.pokemondb.net/artwork/amoonguss.jpg",
+            "accessibilityText": "Amoonguss"
+          },
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Amoonguss evolves from Foongus at Level 39"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

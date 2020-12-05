@@ -1,0 +1,95 @@
+{
+  "id": "06ee00a6-209c-474e-b6b1-5d948fced1fa",
+  "name": "evolution: bulbasaur",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "line",
+          "imageUrl": "https://img.pokemondb.net/artwork/bulbasaur.jpg",
+          "subtitle": "Bulbasaur evolves to Ivysaur at Level 16 \u0026 Ivysaur evolves to Venusaur at Level 32",
+          "title": "Bulbasaur",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://i.ibb.co/bXtNzFJ/image-2020-11-26-182655.png",
+          "subtitle": "Bulbasaur evolves to Ivysaur at Level 16 \u0026 Ivysaur evolves to Venusaur at Level 32",
+          "title": "Bulbasaur Evolution",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "title": "",
+          "textToSpeech": "",
+          "items": [
+            {
+              "description": "",
+              "textToSpeech": "Bulbasaur evolves to Ivysaur at Level 16 \u0026 Ivysaur evolves to Venusaur at Level 32",
+              "displayText": "",
+              "footer": "",
+              "ssml": ""
+            }
+          ],
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "subtitle": "Bulbasaur evolves to Ivysaur at Level 16 \u0026 Ivysaur evolves to Venusaur at Level 32",
+          "title": "Bulbasaur",
+          "textToSpeech": "",
+          "image": {
+            "url": "https://img.pokemondb.net/artwork/bulbasaur.jpg",
+            "accessibilityText": "Bulbasaur"
+          },
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "facebook",
+          "imageUrl": "https://img.pokemondb.net/artwork/bulbasaur.jpg",
+          "subtitle": "Bulbasaur evolves to Ivysaur at Level 16 \u0026 Ivysaur evolves to Venusaur at Level 32",
+          "title": "Bulbasaur",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Bulbasaur evolves to Ivysaur at Level 16 and Ivysaur evolves to Venusaur at Level 32"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

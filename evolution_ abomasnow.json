@@ -1,0 +1,181 @@
+{
+  "id": "97db0f92-63d3-4a53-beda-2ca8a8c80bf8",
+  "name": "evolution: abomasnow",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "18",
+          "platform": "rbm",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": "",
+          "cardOrientation": "HORIZONTAL",
+          "thumbnailImageAlignment": "LEFT",
+          "cardContent": {
+            "title": "Abomasnow\u0027s evolution",
+            "description": "Abomasnow evolves from Snover at Level 40",
+            "media": {
+              "fileUri": "https://img.pokemondb.net/artwork/abomasnow.jpg",
+              "thumbnailUri": "https://img.pokemondb.net/artwork/abomasnow.jpg"
+            }
+          }
+        },
+        {
+          "type": "1",
+          "platform": "hangouts",
+          "imageUrl": "https://img.pokemondb.net/artwork/abomasnow.jpg",
+          "subtitle": "Abomasnow evolves from Snover at Level 40",
+          "title": "Abomasnow\u0027s evolution",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "viber",
+          "imageUrl": "https://img.pokemondb.net/artwork/abomasnow.jpg",
+          "subtitle": "Abomasnow evolves from Snover at Level 40",
+          "title": "Abomasnow\u0027s evolution",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "skype",
+          "imageUrl": "https://img.pokemondb.net/artwork/abomasnow.jpg",
+          "subtitle": "Abomasnow evolves from Snover at Level 40",
+          "title": "Abomasnow\u0027s evolution",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "kik",
+          "imageUrl": "https://img.pokemondb.net/artwork/abomasnow.jpg",
+          "subtitle": "Abomasnow evolves from Snover at Level 40",
+          "title": "Abomasnow\u0027s evolution",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "14",
+          "platform": "telephony",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "text": "Abomasnow evolves from Snover at Level 40",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "facebook",
+          "imageUrl": "https://img.pokemondb.net/artwork/abomasnow.jpg",
+          "subtitle": "Abomasnow evolves from Snover at Level 40",
+          "title": "Abomasnow\u0027s evolution",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "line",
+          "imageUrl": "https://img.pokemondb.net/artwork/abomasnow.jpg",
+          "subtitle": "Abomasnow evolves from Snover at Level 40",
+          "title": "Abomasnow\u0027s evolution",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "slack",
+          "imageUrl": "https://img.pokemondb.net/artwork/abomasnow.jpg",
+          "subtitle": "Abomasnow evolves from Snover at Level 40",
+          "title": "Abomasnow\u0027s evolution",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://img.pokemondb.net/artwork/abomasnow.jpg",
+          "subtitle": "Abomasnow evolves from Snover at Level 40",
+          "title": "Abomasnow\u0027s evolution",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "title": "",
+          "textToSpeech": "",
+          "items": [
+            {
+              "description": "",
+              "textToSpeech": "Abomasnow evolves from Snover at Level 40",
+              "displayText": "",
+              "footer": "",
+              "ssml": ""
+            }
+          ],
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "subtitle": "Abomasnow evolves from Snover at Level 40",
+          "title": "Abomasnow\u0027s evolution",
+          "textToSpeech": "",
+          "image": {
+            "url": "https://img.pokemondb.net/artwork/abomasnow.jpg",
+            "accessibilityText": "Abomasnow"
+          },
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Abomasnow evolves from Snover at Level 40"
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "slack": true,
+        "kik": true,
+        "skype": true,
+        "viber": true,
+        "telephony": true,
+        "hangouts": true,
+        "rbm": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

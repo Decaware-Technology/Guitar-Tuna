@@ -1,0 +1,45 @@
+{
+  "id": "815153b7-cf6b-4817-a94d-0648bffa9ff7",
+  "name": "evolution: jigglypuff",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://i.ibb.co/JdJTDbZ/image-2020-11-26-182847.png",
+          "subtitle": "Jigglypuff evolves from Igglybuff during High Friendship, \u0026 Jigglypuff evolves to Wigglytuff using a Moon Stone",
+          "title": "Jigglypuff evolution",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Jigglypuff evolves from Igglybuff during High Friendship, \u0026 Jigglypuff evolves to Wigglytuff using a Moon Stone"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

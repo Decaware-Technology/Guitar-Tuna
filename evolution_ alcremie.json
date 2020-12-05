@@ -1,0 +1,75 @@
+{
+  "id": "6f8bfd6b-8816-4b72-b062-8f38274f329b",
+  "name": "evolution: alcremie",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://i.ibb.co/kGLqDzY/image-2020-11-25-124209.png",
+          "subtitle": "Alcremie evolves from Milcery when it moves around with the Strawberry Sweet",
+          "title": "Alcremie evolution",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "title": "",
+          "textToSpeech": "",
+          "items": [
+            {
+              "description": "",
+              "textToSpeech": "Alcremie evolves from Milcery when it moves around with the Strawberry Sweet",
+              "displayText": "",
+              "footer": "",
+              "ssml": ""
+            }
+          ],
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "subtitle": "Alcremie evolves from Milcery when it moves around with the Strawberry Sweet",
+          "title": "Alcremie",
+          "textToSpeech": "",
+          "image": {
+            "url": "https://img.pokemondb.net/artwork/alcremie.jpg",
+            "accessibilityText": "Alcremie"
+          },
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Alcremie evolves from Milcery when it moves around with the Strawberry Sweet"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

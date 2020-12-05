@@ -1,0 +1,75 @@
+{
+  "id": "f2eefc51-3ec4-44b2-a26c-5595d345b121",
+  "name": "evolution: ivysaur",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://i.ibb.co/bXtNzFJ/image-2020-11-26-182655.png",
+          "subtitle": "Ivysaur evolves from Bulbasaur at Level 16 and evolves to Venusaur at Level 32",
+          "title": "Ivysaur evolution",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "title": "",
+          "textToSpeech": "",
+          "items": [
+            {
+              "description": "",
+              "textToSpeech": "Ivysaur evolves from Bulbasaur at Level 16 and evolves to Venusaur at Level 32",
+              "displayText": "",
+              "footer": "",
+              "ssml": ""
+            }
+          ],
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "subtitle": "Ivysaur evolves from Bulbasaur at Level 16 and evolves to Venusaur at Level 32",
+          "title": "Ivysaur",
+          "textToSpeech": "",
+          "image": {
+            "url": "https://img.pokemondb.net/artwork/ivysaur.jpg",
+            "accessibilityText": "Ivysaur"
+          },
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Ivysaur evolves from Bulbasaur at Level 16 and evolves to Venusaur at Level 32"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

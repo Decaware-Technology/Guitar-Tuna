@@ -1,0 +1,75 @@
+{
+  "id": "c9d97bdf-dbc8-4a67-b710-3f32aa4ed502",
+  "name": "evolution: appletun",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://i.ibb.co/MNhkRcz/image-2020-11-25-154937.png",
+          "subtitle": "Appletun evolves from Applin when it uses the Sweet Apple, \u0026 Flapple evolves from Applin when it uses the Tart Apple",
+          "title": "Appletun evolution",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Appletun evolves from Applin when it uses the Sweet Apple, \u0026 Flapple evolves from Applin when it uses the Tart Apple"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "title": "",
+          "textToSpeech": "",
+          "items": [
+            {
+              "description": "",
+              "textToSpeech": "Appletun evolves from Applin when it uses the Sweet Apple, \u0026 Flapple evolves from Applin when it uses the Tart Apple",
+              "displayText": "",
+              "footer": "",
+              "ssml": ""
+            }
+          ],
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "subtitle": "Appletun evolves from Applin when it uses the Sweet Apple, \u0026 Flapple evolves from Applin when it uses the Tart Apple",
+          "title": "Appletun",
+          "textToSpeech": "",
+          "image": {
+            "url": "https://img.pokemondb.net/artwork/appletun.jpg",
+            "accessibilityText": "Appletun"
+          },
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

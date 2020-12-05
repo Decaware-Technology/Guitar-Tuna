@@ -1,0 +1,75 @@
+{
+  "id": "bdc34741-f134-4a18-bbaa-66b89acfcba8",
+  "name": "evolution: zekrom",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Zekrom does not evolve"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://i.pinimg.com/originals/a4/09/81/a409813c00b49f8be6cb115c0ec020f8.png",
+          "subtitle": "Zekrom does not evolve",
+          "title": "Zekrom evolution",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "title": "",
+          "textToSpeech": "",
+          "items": [
+            {
+              "description": "",
+              "textToSpeech": "Zekrom does not evolve",
+              "displayText": "",
+              "footer": "",
+              "ssml": ""
+            }
+          ],
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "subtitle": "Zekrom does not evolve",
+          "title": "Zekrom",
+          "textToSpeech": "",
+          "image": {
+            "url": "https://img.pokemondb.net/artwork/zekrom.jpg",
+            "accessibilityText": "Zekrom"
+          },
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

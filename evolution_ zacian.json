@@ -1,0 +1,75 @@
+{
+  "id": "ef0e25af-1299-48e9-aec1-47e03b52b895",
+  "name": "evolution: zacian",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Zacian does not evolve"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://lh3.googleusercontent.com/proxy/2TlkyZ4tMa4Ys5hCyh9gQnGV0McD1mwV61PEEUwYS04FyrTfk7uLQST3fNM_bK7-aeUT3QjYCZx7ibvc2AD59Vxnj8rm1YmmKw_Hvjua3oHNU_ncPl8QFHEn8BVGQXRWBolu0kVtUQ",
+          "subtitle": "Zacian does not evolve",
+          "title": "Zacian evolution",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "title": "",
+          "textToSpeech": "",
+          "items": [
+            {
+              "description": "",
+              "textToSpeech": "Zacian does not evolve",
+              "displayText": "",
+              "footer": "",
+              "ssml": ""
+            }
+          ],
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "subtitle": "Zacian does not evolve",
+          "title": "Zacian",
+          "textToSpeech": "",
+          "image": {
+            "url": "https://img.pokemondb.net/artwork/zacian-crowned.jpg",
+            "accessibilityText": "Zacian"
+          },
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

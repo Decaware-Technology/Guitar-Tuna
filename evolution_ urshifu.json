@@ -1,0 +1,45 @@
+{
+  "id": "a3b7e615-03e3-4ab0-a143-1db25bfb44b3",
+  "name": "evolution: urshifu",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://i.ibb.co/rdBHqt2/image-2020-11-26-183320.png",
+          "subtitle": "Single Strike Style Urshifu evolves from Kubfu in the Tower of Darkness and Rapid Strike Style Urshifu evolves from Kubfu in the Tower of Water.",
+          "title": "Urshifu evolution",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Single Strike Style Urshifu evolves from Kubfu in the Tower of Darkness and Rapid Strike Style Urshifu evolves from Kubfu in the Tower of Water."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

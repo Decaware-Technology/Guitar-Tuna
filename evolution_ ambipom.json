@@ -1,0 +1,65 @@
+{
+  "id": "a0fafc14-0e2f-4127-91f1-63f7e3eb097e",
+  "name": "evolution: ambipom",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://i.ibb.co/481D6qL/image-2020-11-25-123657.png",
+          "subtitle": "Ambipom evolves from Aipom when it learns the Double Hit move",
+          "title": "Ambipom evolution",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "title": "",
+          "textToSpeech": "",
+          "items": [
+            {
+              "description": "",
+              "textToSpeech": "Ambipom evolves from Aipom when it learns the Double Hit move",
+              "displayText": "",
+              "footer": "",
+              "ssml": ""
+            }
+          ],
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "subtitle": "Ambipom evolves from Aipom when it learns the Double Hit move",
+          "title": "Ambipom",
+          "textToSpeech": "",
+          "image": {
+            "url": "https://img.pokemondb.net/artwork/ambipom.jpg",
+            "accessibilityText": "Ambipom"
+          },
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

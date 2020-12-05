@@ -1,0 +1,80 @@
+{
+  "id": "52a76208-ae12-4cef-b9b7-daf56039d155",
+  "name": "evolution: aerodactyl",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://img-pokemondb-net.cdn.ampproject.org/i/s/img.pokemondb.net/artwork/aerodactyl-mega.jpg",
+          "subtitle": "Aerodactyl evolves to Mega Aerodactyl when it reacts to its Aerodactylite",
+          "title": "Aerodactyl evolution",
+          "buttons": [
+            {
+              "text": "Mega Aerodactyl"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "title": "",
+          "textToSpeech": "",
+          "items": [
+            {
+              "description": "",
+              "textToSpeech": "Aerodactyl does not evolve",
+              "displayText": "",
+              "footer": "",
+              "ssml": ""
+            }
+          ],
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "subtitle": "Aerodactyl does not evolve",
+          "title": "Aerodactyl",
+          "textToSpeech": "",
+          "image": {
+            "url": "https://img.pokemondb.net/artwork/aerodactyl.jpg",
+            "accessibilityText": "Aerodactyl"
+          },
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Aerodactyl evolves to Mega Aerodactyl when it reacts to its Aerodactylite"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

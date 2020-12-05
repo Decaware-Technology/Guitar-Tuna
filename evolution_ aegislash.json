@@ -1,0 +1,75 @@
+{
+  "id": "1e795b74-cc3f-460b-a401-fdd3fd5efa32",
+  "name": "evolution: aegislash",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://i.ibb.co/Chrm5Xg/image-2020-11-24-114118.png",
+          "subtitle": "Aegislash evolves from Doublade using a Dusk Stone, \u0026 Doublade evolves from Honedge at Level 35",
+          "title": "Aegislash Evolution",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "title": "",
+          "textToSpeech": "",
+          "items": [
+            {
+              "description": "",
+              "textToSpeech": "Aegislash evolves from Doublade using a Dusk Stone, \u0026 Doublade evolves from Honedge at Level 35",
+              "displayText": "",
+              "footer": "",
+              "ssml": ""
+            }
+          ],
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "subtitle": "Aegislash evolves from Doublade using a Dusk Stone, \u0026 Doublade evolves from Honedge at Level 35",
+          "title": "Aegislash",
+          "textToSpeech": "",
+          "image": {
+            "url": "https://img.pokemondb.net/artwork/aegislash-shield.jpg",
+            "accessibilityText": "Aegislash"
+          },
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Aegislash evolves from Doublade using a Dusk Stone, \u0026 Doublade evolves from Honedge at Level 35"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

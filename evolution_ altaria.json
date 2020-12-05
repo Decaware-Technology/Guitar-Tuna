@@ -1,0 +1,80 @@
+{
+  "id": "2f25f8b6-fee8-4376-aed8-f07c81a5497d",
+  "name": "evolution: altaria",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://i.ibb.co/5MbN5ys/image-2020-11-25-153816.png",
+          "subtitle": "Altaria evolves from Swablu at Level 35",
+          "title": "Altaria evolution",
+          "buttons": [
+            {
+              "text": "Mega Altaria"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "title": "",
+          "textToSpeech": "",
+          "items": [
+            {
+              "description": "",
+              "textToSpeech": "Altaria evolves from Swablu at Level 35",
+              "displayText": "",
+              "footer": "",
+              "ssml": ""
+            }
+          ],
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "subtitle": "Altaria evolves from Swablu at Level 35",
+          "title": "Altaria",
+          "textToSpeech": "",
+          "image": {
+            "url": "https://img.pokemondb.net/artwork/large/altaria.jpg",
+            "accessibilityText": "Altaria"
+          },
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Altaria evolves from Swablu at Level 35"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

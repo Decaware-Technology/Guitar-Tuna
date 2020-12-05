@@ -1,0 +1,75 @@
+{
+  "id": "2289a11c-1046-46d4-90e1-73c4d32d6071",
+  "name": "evolution: amaura",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Amaura evolves to Aurorus at Level 39 at Nighttime"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://i.ibb.co/SJF3mpf/image-2020-11-25-154119.png",
+          "subtitle": "Amaura evolves to Aurorus at Level 39 at Nighttime",
+          "title": "Amaura evolution",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "title": "",
+          "textToSpeech": "",
+          "items": [
+            {
+              "description": "",
+              "textToSpeech": "Amaura evolves to Aurorus at Level 39 at Nighttime",
+              "displayText": "",
+              "footer": "",
+              "ssml": ""
+            }
+          ],
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "subtitle": "Amaura evolves to Aurorus at Level 39 at Nighttime",
+          "title": "Amaura",
+          "textToSpeech": "",
+          "image": {
+            "url": "https://img.pokemondb.net/artwork/amaura.jpg",
+            "accessibilityText": "Amaura"
+          },
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

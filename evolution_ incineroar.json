@@ -1,0 +1,45 @@
+{
+  "id": "1670414a-a7e1-4696-89c1-e5792c96604e",
+  "name": "evolution: incineroar",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://i.ibb.co/txs3fxm/image-2020-11-26-182443.png",
+          "subtitle": "Incineroar evolves from Torracat at Level 34 \u0026 Torracat evolves from Litten at Level 17",
+          "title": "Incineroar evolution",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Incineroar evolves from Torracat at Level 34 \u0026 Torracat evolves from Litten at Level 17"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,80 @@
+{
+  "id": "2ee23a2f-2d89-4ff1-abdc-8910902df6ea",
+  "name": "evolution: ampharos",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://i.ibb.co/sPMXK4G/image-2020-11-25-154625.png",
+          "subtitle": "Ampharos evolves from Flaffy at Level 30, \u0026 Flaffy evolves from Mareep at Level 15",
+          "title": "Ampharos evolution",
+          "buttons": [
+            {
+              "text": "Mega Ampharos"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "title": "",
+          "textToSpeech": "",
+          "items": [
+            {
+              "description": "",
+              "textToSpeech": "Ampharos evolves from Flaffy at Level 30, \u0026 Flaffy evolves from Mareep at Level 15",
+              "displayText": "",
+              "footer": "",
+              "ssml": ""
+            }
+          ],
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "subtitle": "Ampharos evolves from Flaffy at Level 30, \u0026 Flaffy evolves from Mareep at Level 15",
+          "title": "Ampharos",
+          "textToSpeech": "",
+          "image": {
+            "url": "https://img.pokemondb.net/artwork/ampharos.jpg",
+            "accessibilityText": "Ampharos"
+          },
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Ampharos evolves from Flaffy at Level 30, \u0026 Flaffy evolves from Mareep at Level 15"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

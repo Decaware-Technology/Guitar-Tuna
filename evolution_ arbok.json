@@ -1,0 +1,91 @@
+{
+  "id": "f3a638c9-ddff-49da-ab17-4b466a9fe664",
+  "name": "evolution: arbok",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://i.ibb.co/qrtLDr8/image-2020-11-25-155414.png",
+          "subtitle": "Arbok evolves from Ekans at Level 22",
+          "title": "Arbok evolution",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "title": "",
+          "textToSpeech": "",
+          "items": [
+            {
+              "description": "",
+              "textToSpeech": "Arbok evolves from Ekans at Level 22",
+              "displayText": "",
+              "footer": "",
+              "ssml": ""
+            }
+          ],
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "subtitle": "Arbok evolves from Ekans at Level 22",
+          "title": "Arbok",
+          "textToSpeech": "",
+          "image": {
+            "url": "https://img.pokemondb.net/artwork/arbok.jpg",
+            "accessibilityText": "Arbok"
+          },
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "title": "",
+          "textToSpeech": "",
+          "suggestions": [
+            {
+              "title": "Pikachu\u0027s evolution"
+            },
+            {
+              "title": "Arcanine\u0027s evolution"
+            }
+          ],
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Arbok evolves from Ekans at Level 22"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

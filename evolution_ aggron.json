@@ -1,0 +1,80 @@
+{
+  "id": "1f44a3d5-22a3-4787-b47f-238d9a01799f",
+  "name": "evolution: aggron",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://i.ibb.co/gt6vKnF/image-2020-11-25-123257.png",
+          "subtitle": "Aggron evolves from Lairon at Level 42, \u0026 Lairon evolves from Aron at Level 32",
+          "title": "Aggron evolution",
+          "buttons": [
+            {
+              "text": "Mega Aggron"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "title": "",
+          "textToSpeech": "",
+          "items": [
+            {
+              "description": "",
+              "textToSpeech": "Aggron evolves from Lairon at Level 42, \u0026 Lairon evolves from Aron at Level 32",
+              "displayText": "",
+              "footer": "",
+              "ssml": ""
+            }
+          ],
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "subtitle": "Aggron evolves from Lairon at Level 42, \u0026 Lairon evolves from Aron at Level 32",
+          "title": "Aggron",
+          "textToSpeech": "",
+          "image": {
+            "url": "https://img.pokemondb.net/artwork/aggron.jpg",
+            "accessibilityText": "Aggron"
+          },
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Aggron evolves from Lairon at Level 42, \u0026 Lairon evolves from Aron at Level 32"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,45 @@
+{
+  "id": "2edf7de9-58e1-485f-bfe3-d2f9475663ea",
+  "name": "evolution: greninja",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://i.ibb.co/98jHm9q/image-2020-11-26-182303.png",
+          "subtitle": "Greninja evolves from Frogadier at Level 36 and Frogadier evolves from Froakie at Level 16",
+          "title": "Greninja evolution",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Greninja evolves from Frogadier at Level 36 and Frogadier evolves from Froakie at Level 16"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

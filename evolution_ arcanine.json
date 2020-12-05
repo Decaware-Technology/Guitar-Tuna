@@ -1,0 +1,78 @@
+{
+  "id": "ab243cd2-148d-4552-be9b-bc6100987c3d",
+  "name": "evolution: arcanine",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://i.ibb.co/Rbr9CWr/image-2020-11-26-181722.png",
+          "subtitle": "Arcanine evolves from Growlithe when you use the Fire Stone",
+          "title": "Arcanine evolution",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "title": "",
+          "textToSpeech": "",
+          "items": [
+            {
+              "description": "",
+              "textToSpeech": "Arcanine evolves from Growlithe when you use the Fire Stone",
+              "displayText": "",
+              "footer": "",
+              "ssml": ""
+            }
+          ],
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "subtitle": "Arcanine evolves from Growlithe when you use the Fire Stone",
+          "title": "Arcanine",
+          "textToSpeech": "",
+          "image": {
+            "url": "https://img.pokemondb.net/artwork/arcanine.jpg",
+            "accessibilityText": "Arcanine"
+          },
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Arcanine evolves from Growlithe when you use the Fire Stone"
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

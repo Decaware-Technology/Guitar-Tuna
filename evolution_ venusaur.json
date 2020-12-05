@@ -1,0 +1,45 @@
+{
+  "id": "f77741a5-2705-4af1-8f02-057740616604",
+  "name": "evolution: venusaur",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://i.ibb.co/bXtNzFJ/image-2020-11-26-182655.png",
+          "subtitle": "Venusaur evolves from Ivysaur at Level 32 \u0026 Ivysaur evolves from Bulbasaur at Level 16",
+          "title": "Venusaur",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Venusaur evolves from Ivysaur at Level 32 \u0026 Ivysaur evolves from Bulbasaur at Level 16"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,75 @@
+{
+  "id": "6b7d1f7e-3622-4ca9-9da8-1c475139d370",
+  "name": "evolution: pikachu",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://qph.fs.quoracdn.net/main-qimg-a1ae3a38d86765319ac1ca86801e57a6",
+          "subtitle": "Pikachu evolves from Pichu at high friendship. Pikachu evolves to Raichu using the Thunder Stone or to Alolan Raichu in the Alola region using the Thunder stone.",
+          "title": "Pikachu\u0027s evolution",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "title": "",
+          "textToSpeech": "",
+          "items": [
+            {
+              "description": "",
+              "textToSpeech": "Pikachu evolves from Pichu at high friendship. Pikachu evolves to Raichu using the Thunder Stone or to Alolan Raichu in the Alola region using the Thunder stone.",
+              "displayText": "",
+              "footer": "",
+              "ssml": ""
+            }
+          ],
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "subtitle": "Pikachu evolves from Pichu at high friendship. Pikachu evolves to Raichu using the Thunder Stone or to Alolan Raichu in the Alola region using the Thunder stone.",
+          "title": "Pikachu",
+          "textToSpeech": "",
+          "image": {
+            "url": "https://img.pokemondb.net/artwork/pikachu.jpg",
+            "accessibilityText": "Pikachu"
+          },
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Pikachu evolves from Pichu at high friendship. Pikachu evolves to Raichu using the Thunder Stone or to Alolan Raichu in the Alola region using the Thunder stone."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,93 @@
+{
+  "id": "97aa6438-73e1-49d9-9c1b-8d93c45e1771",
+  "name": "evolution: alakazam",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://i.ibb.co/r3gQ1qR/image-2020-11-25-123810.png",
+          "subtitle": "Alakazam evolves from Kadabara by trading itself and Kadabara evolves from Abra at Level 16",
+          "title": "Alakazam evolution",
+          "buttons": [
+            {
+              "text": "Mega Alakazam"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "title": "",
+          "textToSpeech": "",
+          "items": [
+            {
+              "description": "",
+              "textToSpeech": "Alakazam evolves from Kadabara by trading itself and Kadabara evolves from Abra at Level 16",
+              "displayText": "",
+              "footer": "",
+              "ssml": ""
+            }
+          ],
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "subtitle": "Alakazam evolves from Kadabara by trading itself and Kadabara evolves from Abra at Level 16",
+          "title": "Alakazam",
+          "textToSpeech": "",
+          "image": {
+            "url": "https://img.pokemondb.net/artwork/alakazam.jpg",
+            "accessibilityText": "Alakazam"
+          },
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "title": "",
+          "textToSpeech": "",
+          "suggestions": [
+            {
+              "title": "Pikachu\u0027s evolution"
+            }
+          ],
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Alakazam evolves from Kadabara by trading itself and Kadabara evolves from Abra at Level 16"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

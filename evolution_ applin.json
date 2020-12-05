@@ -1,0 +1,75 @@
+{
+  "id": "b1d1b556-4d90-44dc-809d-f4872052b60e",
+  "name": "evolution: applin",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Applin evolves to Appletun when it uses the Sweet Apple, \u0026 Applin evolves to Flapple  when it uses the Tart Apple"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://i.ibb.co/MNhkRcz/image-2020-11-25-154937.png",
+          "subtitle": "Applin evolves to Appletun when it uses the Sweet Apple, \u0026 Applin evolves to Flapple  when it uses the Tart Apple",
+          "title": "Applin evolution",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "title": "",
+          "textToSpeech": "",
+          "items": [
+            {
+              "description": "",
+              "textToSpeech": "Applin evolves to Appletun when it uses the Sweet Apple, \u0026 Applin evolves to Flapple  when it uses the Tart Apple",
+              "displayText": "",
+              "footer": "",
+              "ssml": ""
+            }
+          ],
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "subtitle": "Applin evolves to Appletun when it uses the Sweet Apple, \u0026 Applin evolves to Flapple  when it uses the Tart Apple",
+          "title": "Applin",
+          "textToSpeech": "",
+          "image": {
+            "url": "https://img.pokemondb.net/artwork/applin.jpg",
+            "accessibilityText": "Applin"
+          },
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

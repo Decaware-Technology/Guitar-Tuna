@@ -1,0 +1,75 @@
+{
+  "id": "f8836997-4413-431d-a208-8ac1ed8188f6",
+  "name": "evolution: anorith",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://i.ibb.co/8rXnxnh/image-2020-11-25-154809.png",
+          "subtitle": "Anorith evolves to Armaldo at Level 40",
+          "title": "Anorith evolution",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Anorith evolves to Armaldo at Level 40"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "title": "",
+          "textToSpeech": "",
+          "items": [
+            {
+              "description": "",
+              "textToSpeech": "Anorith evolves to Armaldo at Level 40",
+              "displayText": "",
+              "footer": "",
+              "ssml": ""
+            }
+          ],
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "subtitle": "Anorith evolves to Armaldo at Level 40",
+          "title": "Anorith",
+          "textToSpeech": "",
+          "image": {
+            "url": "https://img.pokemondb.net/artwork/anorith.jpg",
+            "accessibilityText": "Anorith"
+          },
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

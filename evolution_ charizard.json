@@ -1,0 +1,45 @@
+{
+  "id": "82796e5e-6ea4-4cb1-9bc3-b5997de60ff9",
+  "name": "evolution: charizard",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://i.ibb.co/grvZzpM/image-2020-11-26-181914.png",
+          "subtitle": "Charizard evolves from Charmeleon at Level 36 and Charmeleon evolves from Charmander at Level 16",
+          "title": "Charizard evolution",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Charizard evolves from Charmeleon at Level 36 and Charmeleon evolves from Charmander at Level 16"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

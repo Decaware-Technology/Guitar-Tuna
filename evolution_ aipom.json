@@ -1,0 +1,75 @@
+{
+  "id": "41e0d2c7-e9a3-4d96-a688-77c19e19fea7",
+  "name": "evolution: aipom",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://i.ibb.co/481D6qL/image-2020-11-25-123657.png",
+          "subtitle": "Aipom evolves to Ambipom when it learns the Double Hit move",
+          "title": "Aipom evolution",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "title": "",
+          "textToSpeech": "",
+          "items": [
+            {
+              "description": "",
+              "textToSpeech": "Aipom evolves to Ambipom when it learns the Double Hit move",
+              "displayText": "",
+              "footer": "",
+              "ssml": ""
+            }
+          ],
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "subtitle": "Aipom evolves to Ambipom when it learns the Double Hit move",
+          "title": "Aipom",
+          "textToSpeech": "",
+          "image": {
+            "url": "https://img.pokemondb.net/artwork/aipom.jpg",
+            "accessibilityText": "Aipom"
+          },
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Aipom evolves to Ambipom when it learns the Double Hit move"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

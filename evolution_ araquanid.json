@@ -1,0 +1,75 @@
+{
+  "id": "00b146e2-74ff-4add-b22a-98be80201c60",
+  "name": "evolution: araquanid",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Araquanid evolves from Dewpider at Level 22"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://i.ibb.co/njJwCmz/image-2020-11-25-155212.png",
+          "subtitle": "Araquanid evolves from Dewpider at Level 22",
+          "title": "Araquanid evolution",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "title": "",
+          "textToSpeech": "",
+          "items": [
+            {
+              "description": "",
+              "textToSpeech": "Araquanid evolves from Dewpider at Level 22",
+              "displayText": "",
+              "footer": "",
+              "ssml": ""
+            }
+          ],
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "subtitle": "Araquanid evolves from Dewpider at Level 22",
+          "title": "Araquanid",
+          "textToSpeech": "",
+          "image": {
+            "url": "https://img.pokemondb.net/artwork/araquanid.jpg",
+            "accessibilityText": "Araquanid"
+          },
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

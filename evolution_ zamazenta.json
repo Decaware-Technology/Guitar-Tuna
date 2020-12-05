@@ -1,0 +1,75 @@
+{
+  "id": "c4184b1c-1cb6-4bcb-9729-7595e33c8f46",
+  "name": "evolution: zamazenta",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Zamazenta does not evolve"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/swsh/240/zamazenta-crowned.png",
+          "subtitle": "Zamazenta does not evolve",
+          "title": "Zamazenta evolution",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "title": "",
+          "textToSpeech": "",
+          "items": [
+            {
+              "description": "",
+              "textToSpeech": "Zamazenta does not evolve",
+              "displayText": "",
+              "footer": "",
+              "ssml": ""
+            }
+          ],
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "subtitle": "Zamazenta does not evolve",
+          "title": "Zamazenta",
+          "textToSpeech": "",
+          "image": {
+            "url": "https://img.pokemondb.net/artwork/zamazenta-crowned.jpg",
+            "accessibilityText": "Zamazenta"
+          },
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

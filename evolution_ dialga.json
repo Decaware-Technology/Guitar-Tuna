@@ -1,0 +1,75 @@
+{
+  "id": "98a58f29-a5c8-472c-bcf8-27add98c6c89",
+  "name": "evolution: dialga",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/37268c81-dce3-44a4-9064-5001138eb2d9/dcxcjba-23a81684-da35-409f-ad07-53d7ca4c5f92.png?token\u003deyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvMzcyNjhjODEtZGNlMy00NGE0LTkwNjQtNTAwMTEzOGViMmQ5XC9kY3hjamJhLTIzYTgxNjg0LWRhMzUtNDA5Zi1hZDA3LTUzZDdjYTRjNWY5Mi5wbmcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.V98zx0wbNO8iY5MSDPBGtaA7azpkgcc3wpjGJWplzgA",
+          "subtitle": "Dialga does not evolve",
+          "title": "Dialga evolution",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "title": "",
+          "textToSpeech": "",
+          "items": [
+            {
+              "description": "",
+              "textToSpeech": "Dialga does not evolve.",
+              "displayText": "",
+              "footer": "",
+              "ssml": ""
+            }
+          ],
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "subtitle": "Dialga does not evolve.",
+          "title": "Dialga",
+          "textToSpeech": "",
+          "image": {
+            "url": "https://img.pokemondb.net/artwork/dialga.jpg",
+            "accessibilityText": "Dialga"
+          },
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Dialga does not evolve"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

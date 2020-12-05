@@ -1,0 +1,75 @@
+{
+  "id": "09b83d4c-22e7-4894-90cb-86ee668ea992",
+  "name": "evolution: accelgor",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://i.ibb.co/1qWTgfP/image-2020-11-24-113749.png",
+          "subtitle": "Accelgor evolves from Shelmet when traded with Karrablast",
+          "title": "Accelgor evolution",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "title": "",
+          "textToSpeech": "",
+          "items": [
+            {
+              "description": "",
+              "textToSpeech": "Accelgor evolves from Shelmet when traded with Karrablast",
+              "displayText": "",
+              "footer": "",
+              "ssml": ""
+            }
+          ],
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "subtitle": "Accelgor evolves from Shelmet when traded with Karrablast",
+          "title": "Accelgor",
+          "textToSpeech": "",
+          "image": {
+            "url": "https://img.pokemondb.net/artwork/accelgor.jpg",
+            "accessibilityText": "Accelgor"
+          },
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Accelgor evolves from Shelmet when traded with Karrablast"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
