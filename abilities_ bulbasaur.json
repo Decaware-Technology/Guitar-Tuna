@@ -1,0 +1,66 @@
+{
+  "id": "0a8f1fa6-7ea4-4d02-aa05-f3da6bcd8398",
+  "name": "abilities: bulbasaur",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Bulbasaur has 2 abilities: Overgrow and Chlorophyll (Hidden Ability)"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://static.wikia.nocookie.net/pokemon/images/d/d1/Ash_Grovyle_Overgrow.png/revision/latest/top-crop/width/300/height/300?cb\u003d20150121223237",
+          "subtitle": "Overgrow increases the power of Grass-type moves by 50% (1.5×) when the ability-bearer\u0027s HP falls below a third of its maximum (known in-game as in a pinch).",
+          "title": "Overgrow",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://cdn.bulbagarden.net/upload/thumb/2/2b/Gardenia_Cherubi_Chlorophyll.png/150px-Gardenia_Cherubi_Chlorophyll.png",
+          "subtitle": "Chlorophyll doubles the ability-bearer\u0027s Speed during bright sunshine.",
+          "title": "Chlorophyll",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Bulbasaur has 2 abilities: Overgrow and Chlorophyll (Hidden Ability)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
