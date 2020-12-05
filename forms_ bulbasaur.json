@@ -1,0 +1,45 @@
+{
+  "id": "34e5545c-c6fd-4b30-bfa1-8a586db6f85f",
+  "name": "forms: bulbasaur",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/34949f93-8022-47ca-a20e-35d2b4f12c98/d6lyofe-d2c7e920-b651-49c8-85cd-4423b43f89ad.png?token\u003deyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvMzQ5NDlmOTMtODAyMi00N2NhLWEyMGUtMzVkMmI0ZjEyYzk4XC9kNmx5b2ZlLWQyYzdlOTIwLWI2NTEtNDljOC04NWNkLTQ0MjNiNDNmODlhZC5wbmcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.o3-THwxGMIfN-JcwK4hROiTCyxpiX9P1qXha-OXyovQ",
+          "subtitle": "Bulbasaur has 1 other form  -  Shiny",
+          "title": "Bulbasaur forms",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Bulbasaur has 1 other form  -  Shiny"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
