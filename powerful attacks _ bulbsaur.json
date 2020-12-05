@@ -1,0 +1,64 @@
+{
+  "id": "09d5967e-7179-4ffe-8dfa-1b13c67ef319",
+  "name": "powerful attacks : bulbsaur",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "91a8574f-523b-421f-ad50-f84c27aa243d",
+          "name": "Pokemon",
+          "required": false,
+          "dataType": "@Pokemon",
+          "value": "$Pokemon",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "155d6287-856d-4127-8400-3bbb53c81059",
+          "name": "attackspowerufl",
+          "required": false,
+          "dataType": "@attackspowerufl",
+          "value": "$attackspowerufl",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Bulbasaur\u0027s strongest attacks are Vine Whip \u0026 Power Whip"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,36 @@
+{
+  "id": "7bde0a0d-eab0-4ddc-92a7-55965122b216",
+  "name": "powerful attacks : charizard",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Charizard\u0027s strongest moveset is Fire Spin \u0026 Blast Burn",
+            "Charizard\u0027s strongest moves are Fire Spin \u0026 Blast Burn"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

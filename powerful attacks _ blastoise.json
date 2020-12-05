@@ -1,0 +1,66 @@
+{
+  "id": "f78b7e77-6caf-4011-b685-84fa87ee179d",
+  "name": "powerful attacks : blastoise",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Blastoise\u0027s strongest moveset is Water Gun \u0026 Hydro Cannon"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://pbs.twimg.com/media/Dk0LDz4U0AA4JW3.jpg",
+          "subtitle": "Hydro Pump deals 120 damage with no additional effect.",
+          "title": "Hydro Cannon",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/81464207535054690/EC9FE747E4F9A88621157E71C717EB6486C1B601/",
+          "subtitle": "Water Gun deals 40 damage with no additional effect.",
+          "title": "Water Gun",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Blastoise\u0027s strongest moveset is Water Gun \u0026 Hydro Cannon"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

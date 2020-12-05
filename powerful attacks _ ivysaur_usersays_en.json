@@ -1,0 +1,31 @@
+[
+  {
+    "id": "0f21fd66-07f7-4789-9298-7446c051434b",
+    "data": [
+      {
+        "text": "what are ",
+        "userDefined": false
+      },
+      {
+        "text": "ivysaur",
+        "meta": "@Pokemon",
+        "alias": "Pokemon",
+        "userDefined": true
+      },
+      {
+        "text": " most ",
+        "userDefined": false
+      },
+      {
+        "text": "powerful attacks",
+        "meta": "@attackspowerufl",
+        "alias": "attackspowerufl",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

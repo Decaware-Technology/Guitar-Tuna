@@ -1,0 +1,64 @@
+{
+  "id": "bf5c8032-0a9d-4641-bae2-348a35154751",
+  "name": "powerful attacks : ivysaur",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "cc82a83f-b307-4e71-b389-9c87d02bb4e2",
+          "name": "Pokemon",
+          "required": false,
+          "dataType": "@Pokemon",
+          "value": "$Pokemon",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "826c75a0-746b-468e-831e-078fc684cf56",
+          "name": "attackspowerufl",
+          "required": false,
+          "dataType": "@attackspowerufl",
+          "value": "$attackspowerufl",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Ivysaur\u0027s strongest attacks is Vine Whip \u0026 Power Whip"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

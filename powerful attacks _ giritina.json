@@ -1,0 +1,50 @@
+{
+  "id": "e558f59a-2c6a-44c1-b7a1-fe46b5f47b3f",
+  "name": "powerful attacks : giritina",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "5fc4be57-2a92-46e1-9f3e-5c261cb79a0a",
+          "name": "Pokemon",
+          "required": false,
+          "dataType": "@Pokemon",
+          "value": "$Pokemon",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Giratina\u0027s strongest moveset is Shadow Claw \u0026 Dragon Claw"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

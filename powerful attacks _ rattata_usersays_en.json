@@ -1,0 +1,33 @@
+[
+  {
+    "id": "d2fb8fcc-cd2b-4d28-acd2-a4f9c8fd71ec",
+    "data": [
+      {
+        "text": "what are rattata most powerful attacks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "81f88490-1462-40e2-b251-117dca0fe178",
+    "data": [
+      {
+        "text": "ratta ",
+        "userDefined": false
+      },
+      {
+        "text": "powerful attacks",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

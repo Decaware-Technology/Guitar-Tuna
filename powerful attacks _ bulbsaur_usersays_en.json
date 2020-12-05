@@ -1,0 +1,31 @@
+[
+  {
+    "id": "b51e7f53-ce10-47b7-a63f-22b4e82ea0d3",
+    "data": [
+      {
+        "text": "what are ",
+        "userDefined": false
+      },
+      {
+        "text": "bulbasaur",
+        "meta": "@Pokemon",
+        "alias": "Pokemon",
+        "userDefined": true
+      },
+      {
+        "text": " most ",
+        "userDefined": false
+      },
+      {
+        "text": "powerful attacks",
+        "meta": "@attackspowerufl",
+        "alias": "attackspowerufl",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

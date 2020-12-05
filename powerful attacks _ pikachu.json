@@ -1,0 +1,45 @@
+{
+  "id": "7b4b78b8-07e1-4559-b1c4-ad45d24d57ac",
+  "name": "powerful attacks : pikachu",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://i.pinimg.com/originals/ce/c8/a6/cec8a66a5acd47bfcb989ec0cb5cfdab.jpg",
+          "subtitle": "Pikachu\u0027s strongest moveset is Thunder Shock \u0026 Wild Charge",
+          "title": "Pikachu\u0027s most powerful moveset",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Pikachu\u0027s strongest moveset is Thunder Shock \u0026 Wild Charge"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

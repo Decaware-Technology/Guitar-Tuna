@@ -1,0 +1,36 @@
+{
+  "id": "62b00b85-e29b-48a1-b5af-23a4f0908167",
+  "name": "powerful attacks : charmander",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Charmander\u0027s strongest moveset are Ember \u0026 Flamethrower",
+            "Charmander\u0027s strongest attacks are Ember \u0026 Flamethrower"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
